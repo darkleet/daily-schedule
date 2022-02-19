@@ -1,0 +1,11 @@
+{
+  "cSpell.words": ["hereeeee", "NARUTO", "Nindo", "ONTIME"],
+  "cSpell.customDictionaries": {
+    "custom-dictionary-workspace": {
+      "name": "custom-dictionary-workspace",
+      "path": "${workspaceFolder:daily code}/.cspell/custom-dictionary-workspace.txt",
+      "addWords": true,
+      "scope": "workspace"
+    }
+  }
+}

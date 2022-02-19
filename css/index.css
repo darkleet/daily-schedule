@@ -1,0 +1,46 @@
+#main {
+  border-style: solid;
+  border-color: black;
+  margin: 150px 10px auto 10px;
+  background-color: lawngreen;
+  border-radius: 8px;
+  box-shadow: 5px 7px 45px black;
+}
+img {
+  height: 150px;
+  width: 150px;
+  border-style: solid;
+  border-radius: 75px;
+  border-color: black;
+  margin-top: -74px;
+}
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 39px;
+  color: blue;
+}
+span {
+  color: black;
+}
+p {
+  font-family: "Supermercado One", cursive;
+  color: rgb(255, 0, 13);
+  font-size: x-large;
+}
+#first {
+  color: rgb(50, 0, 100);
+}
+a {
+  color: navy;
+  text-decoration: none;
+  font-family: "Comforter", cursive;
+  font-size: 40px;
+  margin: 90px;
+  border-radius: 10px;
+  border-color: lightseagreen;
+  background-color: lawngreen;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
